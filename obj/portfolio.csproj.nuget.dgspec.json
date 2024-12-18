@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Playwright.NUnit": {
+              "target": "Package",
+              "version": "[1.49.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
