@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\portfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\portfolio.vjb7t89jvj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.portfolio.props",
+      "PackagePath": "build\\portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.portfolio.props",
+      "PackagePath": "buildMultiTargeting\\portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.portfolio.props",
+      "PackagePath": "buildTransitive\\portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.portfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

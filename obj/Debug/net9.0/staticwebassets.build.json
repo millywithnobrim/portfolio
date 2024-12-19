@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "5q6i06uAt+cu2VJgpSkz8az3vQheG8Ig3dI7qL5Wa/4=",
+  "Source": "portfolio",
+  "BasePath": "_content/portfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "portfolio\\wwwroot",
+      "Source": "portfolio",
+      "ContentRoot": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\wwwroot\\",
+      "BasePath": "_content/portfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\1n1avq7hxf-4kywy7iv6g.gz",
+      "SourceId": "portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "app#[.{fingerprint=4kywy7iv6g}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zcos8w4b7w",
+      "Integrity": "rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\631pwx829l-vjb7t89jvj.gz",
+      "SourceId": "portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "portfolio#[.{fingerprint=vjb7t89jvj}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\portfolio.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vgex8uozpb",
+      "Integrity": "f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\portfolio.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\w6gx58c41f-vjb7t89jvj.gz",
+      "SourceId": "portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "portfolio#[.{fingerprint=vjb7t89jvj}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\portfolio.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vgex8uozpb",
+      "Integrity": "f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\portfolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\portfolio.styles.css",
+      "SourceId": "portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "portfolio#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "vjb7t89jvj",
+      "Integrity": "O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\portfolio.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\portfolio.bundle.scp.css",
+      "SourceId": "portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "portfolio#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "vjb7t89jvj",
+      "Integrity": "O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\portfolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\wwwroot\\app.css",
+      "SourceId": "portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\wwwroot\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kywy7iv6g",
+      "Integrity": "9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.4kywy7iv6g.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\1n1avq7hxf-4kywy7iv6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000721500722"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1385"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 21:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.4kywy7iv6g.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 21:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.4kywy7iv6g.css.gz",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\1n1avq7hxf-4kywy7iv6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 21:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\1n1avq7hxf-4kywy7iv6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000721500722"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1385"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 21:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 21:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\1n1avq7hxf-4kywy7iv6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 21:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.bundle.scp.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\w6gx58c41f-vjb7t89jvj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003003003003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.bundle.scp.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\portfolio.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\w6gx58c41f-vjb7t89jvj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.styles.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\631pwx829l-vjb7t89jvj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003003003003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.styles.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\portfolio.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.styles.css.gz",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\631pwx829l-vjb7t89jvj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.vjb7t89jvj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\w6gx58c41f-vjb7t89jvj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003003003003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjb7t89jvj"
+        },
+        {
+          "Name": "label",
+          "Value": "portfolio.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.vjb7t89jvj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\portfolio.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjb7t89jvj"
+        },
+        {
+          "Name": "label",
+          "Value": "portfolio.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.vjb7t89jvj.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\w6gx58c41f-vjb7t89jvj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjb7t89jvj"
+        },
+        {
+          "Name": "label",
+          "Value": "portfolio.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.vjb7t89jvj.styles.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\631pwx829l-vjb7t89jvj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003003003003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjb7t89jvj"
+        },
+        {
+          "Name": "label",
+          "Value": "portfolio.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.vjb7t89jvj.styles.css",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\portfolio.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjb7t89jvj"
+        },
+        {
+          "Name": "label",
+          "Value": "portfolio.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+NSuqf+R7Qg41BVLQGS+BcRDCof1KMp/raKhGxJ+BI="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio.vjb7t89jvj.styles.css.gz",
+      "AssetFile": "C:\\Users\\jt554\\projects\\cpractice\\portfolio\\obj\\Debug\\net9.0\\compressed\\631pwx829l-vjb7t89jvj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjb7t89jvj"
+        },
+        {
+          "Name": "label",
+          "Value": "portfolio.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0dFj5H0u8oH6+vbR254TPnYSPsCGERa9Y2EceQAKxE="
+        }
+      ]
+    }
+  ]
+}
