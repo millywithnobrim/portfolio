@@ -1,31 +1,36 @@
-#Project Portfolio
+# Project Portfolio
 
-##Desciption
+## Desciption
 Web page to hold my projects
 
-##Table of Contents
+## Table of Contents
 
-###Installation
+### Installation
+
 1.1 dotnet
-  1.12 CDevkit
-1.2 pwsh
-1.3 nunit
-1.4 playwright
 
-###Usage
-###Configuration
-###Tests
-###License
-###Credits
+  1. CDevkit 
+  
+  2. pwsh 
 
-##Installation
+1.2 nunit
 
-##Usage
+1.3 playwright
 
-##Configuration 
+1.4 Usage
+### Configuration
+### Tests
+### License
+### Credits
 
-##Tests
+## Installation
 
-##License
+## Usage
 
-##Credits
+## Configuration 
+
+## Tests
+
+## License
+
+## Credits
